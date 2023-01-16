@@ -5,4 +5,5 @@ This code imports the java.util.Arrays library and then creates a Solution class
 ## Time and Space Complexity
 
 Time complexity: O(n)
+
 Space complexity: O(1)
