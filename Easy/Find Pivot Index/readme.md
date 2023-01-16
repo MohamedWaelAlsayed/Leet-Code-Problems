@@ -5,4 +5,5 @@ This code is a solution to the problem of finding the pivot index in an array. T
 ## Time and Space complexity
 
 Time complexity: O(n)
+
 Space complexity: O(1)
